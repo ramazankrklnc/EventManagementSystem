@@ -54,7 +54,7 @@ Etkinlik Yönetim Sistemi, çeşitli etkinliklerin yönetimi, duyurulması ve bi
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/ramazankrklnc/EventManagementSystem.git
+git clone [https://github.com/ramazankrklnc/EventManagementSystem.git](https://github.com/ramazankrklnc/EventManagementSystem.git)
 cd EventManagementSystem
 ```
 
